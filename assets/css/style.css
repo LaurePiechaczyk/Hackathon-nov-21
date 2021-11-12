@@ -1,1 +1,38 @@
 
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+}
+
+
+body {
+    background-color: white;
+    font-family: 'Poppins', Sans-Serif;
+    color: black;
+    text-align: center;
+
+}
+
+/* Headings */
+
+h1, h2, h3, h4 {
+    font-family: 'Abril Fatface', Cursive;
+
+}
+
+#hero-image {
+    height: 400px;
+    width: 100%;
+    background-image: url(../images/pexels-tara-winstead-7723522.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    width: 100%;
+    margin: 0;
+    max-height: 90%;
+    min-height: 450px;
+
+
+}

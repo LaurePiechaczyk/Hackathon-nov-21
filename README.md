@@ -1,21 +1,13 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Typography
 
-Laure again
-Welcome Cristina,
-hello
-irene 
-Hello
+Suggested fonts to use in our website
+
+Font-Family: 'Abril Fatface', Cursive;
+Font-Size: 48px;
+Font-Family: 'Poppins', Sans-Serif;
+Font-Size: 14px;
 
 
-HELLO
-Welcome mcglasp,
-
-hello Laure
-Laure Branch for pull
-
-Testing changes sent to forked project. 
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
 
 ## Gitpod Reminders
 
