@@ -1,7 +1,10 @@
 let eventInCard = 
 [
-  {"image":"images/cells-fluorescence.jpg","title":"Why it is important to screen for breast cancer as early as possible","speaker":"Doctor Ivan Green, Oncologist","city":"London","adress":"20th  Downhill street","short_Summary":"We always said early diagnosis is important. In the event Doctor Green will explain why","longuer_Summary":"hhh","thema":"Diagnosis","when":"20th November 2021, 15h","audience":"All public"},
-  {"image":"images/cells-fluorescence.jpg","title":"We use cells in a lab to find new treatments for breast cancer","speaker":"Mary Blue, PhD","city":"London","adress":"20th  Downhill street","short_Summary":"How cells in a lab are used will be explained in an easy way.","longuer_Summary":"hhh","thema":"Basic research","when":"25th November 2021, 15h","audience":"All public"}
+  {"image":"images/doctor.png","title":"Why it is important to screen for breast cancer as early as possible","speaker":"Doctor Ivan Green, Oncologist","city":"London","adress":"20th  Downhill street","short_Summary":"We always said early diagnosis is important. In the event Doctor Green will explain why","longuer_Summary":"Details about the event","thema":"Diagnosis","when":"20th November 2021, 15h","audience":"All public"},
+  {"image":"images/cells-fluorescence.jpg","title":"We use cells in a lab to find new treatments for breast cancer","speaker":"Mary Blue, PhD","city":"London","adress":"20th  Downhill street","short_Summary":"How cells in a lab are used will be explained in an easy way.","longuer_Summary":"Details about the event","thema":"Basic research","when":"25th November 2021, 15h","audience":"All public"},
+  {"image":"images/mix-cancer-research.png","title":"Coffee and Science","speaker":"Panel�discussion","city":"London","adress":"Coffee George, 66 Flanelstreet","short_Summary":"Come and talk casually to researchers and doctors on the thema breast cancer","longuer_Summary":"Details about the event","thema":"Casual","when":"30th November 2021, 15h","audience":"All public"}
+  ,
+  {"image":"images/fly.png","title":"Small flyes for cancer science","speaker":"Lionel Bernard","city":"London","adress":"20th  Downhill street","short_Summary":"Why on earth are we using small animals in research?","longuer_Summary":"Details about the event","thema":"Basic research","when":"5th December 2021, 14h","audience":"All public"}
   ]
 
 // function to render the cards with events
