@@ -1,3 +1,8 @@
+/* Index  */
+.our-events{
+    margin-left: 20px;
+}
+
 
 /* CopePen CIRCULAR SPEECH BUBBLE */
 /* COMMON COLOR + MAKE ROUND */
@@ -36,7 +41,7 @@
         margin: 10px auto;/*to center on small screens*/
     }
 }
-=======
+/*=======*/ 
 /* Global styles */ 
 
 * {
@@ -59,7 +64,7 @@ h1, h2, h3, h4 {
     font-family: 'Abril Fatface', Cursive;
 }
 
-#hero-image {
+#hero-image, .hero-image {
     height: 400px;
     width: 100%;
     background-image: url(../images/pexels-tara-winstead-7723522.jpg);
