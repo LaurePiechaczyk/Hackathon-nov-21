@@ -1,4 +1,44 @@
 
+/* CopePen CIRCULAR SPEECH BUBBLE */
+/* COMMON COLOR + MAKE ROUND */
+.circular, .circular::before, .circular::after {
+    background: #f86a9a;
+    border-radius: 50%;
+  }
+  
+  /* "BUBBLE" */
+  .circular {
+    /* FONT */
+/*     font-family: arial, sans-serif; */
+    font-size: 1.1em;
+    color: #fff;
+    text-shadow: 1px 1px #000;
+    text-align: center;
+    /* DIMENSIONS + BACKGROUND */
+    padding: 30px 30px;
+    max-width: 300px;
+    position: relative;
+  }
+  .statistics{
+      text-align: center;
+  }
+/* media queries for the info bubbles containing statistics on symptoms.html*/
+  @media only screen and (min-width: 998px) {
+     #circular-2{
+         margin-left: 8%; /*to alternate on larger screens*/
+     }
+     #circular-1, #circular-3{
+        margin-left: 80%;
+    }
+ }
+ @media only screen and (max-width: 997px) {
+    .circular{
+        margin: 10px auto;/*to center on small screens*/
+    }
+}
+=======
+/* Global styles */ 
+
 * {
     margin: 0;
     padding: 0;
@@ -6,19 +46,17 @@
 }
 
 
+/* Body and headings */
+
 body {
     background-color: white;
     font-family: 'Poppins', Sans-Serif;
     color: black;
     text-align: center;
-
 }
-
-/* Headings */
 
 h1, h2, h3, h4 {
     font-family: 'Abril Fatface', Cursive;
-
 }
 
 #hero-image {
@@ -36,3 +74,4 @@ h1, h2, h3, h4 {
 
 
 }
+
