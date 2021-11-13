@@ -77,6 +77,56 @@ h1, h2, h3, h4 {
     max-height: 90%;
     min-height: 450px;
 
-
 }
 
+/* Navigation menu */
+
+.navbar {
+    background-color: #D9B0CA;
+    color: white;
+}
+
+/* Footer */ 
+
+.main-footer {
+    background-color: #D9B0CA;
+    font-size: 150%;
+    font-weight: 400;
+    font-family: 'Scheherazade New', serif;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+    margin: 0;
+    padding: 40px 0px;
+}
+
+#para-footer {
+    margin-right: 60px;
+}
+
+.main-footer li {
+    list-style-type: none;
+    letter-spacing: 4px;
+    padding: 10px 10px;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.main-footer ul {
+    display: table;
+    list-style-type: none;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    display: block;
+}
+
+.main-footer a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.main-footer a:hover {
+    color: #8C4265;
+
+}
