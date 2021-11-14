@@ -1,8 +1,4 @@
 /* Index  */
-.our-events{
-    margin-left: 20px;
-}
-
 
 /* CopePen CIRCULAR SPEECH BUBBLE */
 /* COMMON COLOR + MAKE ROUND */
@@ -64,6 +60,26 @@ h1, h2, h3, h4 {
     font-family: 'Abril Fatface', Cursive;
 }
 
+.text-pink {
+    color: #885e78;
+}
+
+.lighter-font {
+    font-weight: lighter;
+}
+
+#our-events{
+    padding-top: 20px;
+    
+}
+
+.display-4{
+    letter-spacing: 4px;
+}
+.lead {
+    font-size: 120%;
+}
+
 #hero-image, .hero-image {
     height: 400px;
     width: 100%;
@@ -83,6 +99,14 @@ h1, h2, h3, h4 {
 
 .navbar {
     background-color: #D9B0CA;
+}
+
+/* Intro text*/
+.intro-text {
+    background-color: #D9B0CA;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 
 /* Footer */ 
