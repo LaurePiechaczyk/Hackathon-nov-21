@@ -1,44 +1,6 @@
 /* Index  */
 
-/* CopePen CIRCULAR SPEECH BUBBLE */
-/* COMMON COLOR + MAKE ROUND */
-.circular, .circular::before, .circular::after {
-    background: #f86a9a;
-    border-radius: 50%;
-  }
-  
-  /* "BUBBLE" */
-  .circular {
-    /* FONT */
-/*     font-family: arial, sans-serif; */
-    font-size: 1.1em;
-    color: #fff;
-    text-shadow: 1px 1px #000;
-    text-align: center;
-    /* DIMENSIONS + BACKGROUND */
-    padding: 30px 30px;
-    max-width: 300px;
-    position: relative;
-  }
-  .statistics{
-      text-align: center;
-  }
-/* media queries for the info bubbles containing statistics on symptoms.html*/
-  @media only screen and (min-width: 998px) {
-     #circular-2{
-         margin-left: 8%; /*to alternate on larger screens*/
-     }
-     #circular-1, #circular-3{
-        margin-left: 80%;
-    }
- }
- @media only screen and (max-width: 997px) {
-    .circular{
-        margin: 10px auto;/*to center on small screens*/
-    }
-}
-/*=======*/ 
-/* Global styles */ 
+/* Global styles */
 
 * {
     margin: 0;
@@ -55,35 +17,28 @@ body {
     text-align: center;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     font-family: 'Abril Fatface', Cursive;
 }
 
-a{
-    color: black;
+
+#main-container {
+    padding: 20px 32px 64px 32px;
+
 }
 
-.text-pink {
-    color: #885e78;
+.intro-text {
+    padding: 64px 32px 64px 32px;
+
 }
 
-.lighter-font {
-    font-weight: lighter;
-}
+/* Hero image */
 
-#our-events{
-    padding-top: 20px;
-    
-}
-
-.display-4{
-    letter-spacing: 4px;
-}
-.lead {
-    font-size: 120%;
-}
-
-#hero-image, .hero-image {
+#hero-image,
+.hero-image {
     height: 400px;
     width: 100%;
     background-image: url(../images/pexels-tara-winstead-7723522.jpg);
@@ -95,16 +50,122 @@ a{
     margin: 0;
     max-height: 90%;
     min-height: 450px;
+}
 
+#jumbotron.jumbotron.second-page,
+#hero-image.second-page {
+    height: 100px;
+    width: 100%;
+    background-image: url(../images/pexels-tara-winstead-7723522.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    width: 100%;
+    margin: 0;
+    /* max-height: 190px; */
+    min-height: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+} 
+
+
+a {
+    color: black;
+}
+
+.text-pink {
+    color: #885e78;
+}
+
+.lighter-font {
+    font-weight: lighter;
+    font-family: 'Abril Fatface', Cursive;
+
+}
+
+#our-events {
+    padding-top: 20px;
+
+}
+
+.display-4 {
+    letter-spacing: 4px;
+}
+
+.lead {
+    font-size: 120%;
+}
+
+lead pb-3 text-pink {
+    font-family: 'Poppins', Sans-Serif;
+    
+}
+
+/* CopePen CIRCULAR SPEECH BUBBLE */
+/* COMMON COLOR + MAKE ROUND */
+.circular,
+.circular::before,
+.circular::after {
+    background: #f86a9a;
+    border-radius: 50%;
+}
+
+/* "BUBBLE" */
+.circular {
+    font-size: 1.1em;
+    color: #fff;
+    text-shadow: 1px 1px #000;
+    text-align: center;
+    /* DIMENSIONS + BACKGROUND */
+    padding: 30px 30px;
+    max-width: 300px;
+    position: relative;
+}
+
+.statistics {
+    text-align: center;
+}
+
+/* Media queries for the info bubbles containing statistics on symptoms.html */
+
+@media only screen and (min-width: 998px) {
+    #circular-2 {
+        margin-left: 8%;
+        /*to alternate on larger screens*/
+    }
+
+    #circular-1,
+    #circular-3 {
+        margin-left: 80%;
+    }
+}
+
+@media only screen and (max-width: 997px) {
+    .circular {
+        margin: 10px auto;
+        /*to center on small screens*/
+    }
 }
 
 /* Navigation menu */
 
 .navbar {
     background-color: #D9B0CA;
+    font-family: 'Abril Fatface', Cursive;
 }
 
-/* Intro text*/
+
+
+.navbar a.active {
+    color: #8C4265;
+}
+
+.navbar a:hover {
+    color: #8C4265;  
+}
+
+/* Intro text */
 .intro-text {
     background-color: #D9B0CA;
     color: white;
@@ -112,18 +173,18 @@ a{
     padding-bottom: 10px;
 }
 
-/* cards */
+/* Cards */
 .card-body {
     min-height: 300px;
 }
 
-/* Footer */ 
+/* Footer */
 
 .main-footer {
     background-color: #D9B0CA;
     font-size: 150%;
     font-weight: 400;
-    font-family: 'Scheherazade New', serif;
+    font-family: 'Abril Fatface', Cursive;
     color: white;
     padding: 40px 0;
     text-align: center;
@@ -161,24 +222,6 @@ a{
     color: #8C4265;
 
 }
-
-#jumbotron.jumbotron.second-page, #hero-image.second-page {
-    height: 100px;
-    width: 100%;
-    background-image: url(../images/pexels-tara-winstead-7723522.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: scroll;
-    width: 100%;
-    margin: 0;
-    /* max-height: 190px; */
-    min-height: 100px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-
 
 /* Map */
 
