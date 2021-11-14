@@ -128,3 +128,7 @@ $(".themaChoice").on('click', function(event){
   });
   renderCards(themaEvents)
 });
+
+$(".all-events-selection").on('click', function(){
+  renderCards(eventInCard)
+});
