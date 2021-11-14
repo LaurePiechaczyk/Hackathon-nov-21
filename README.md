@@ -8,6 +8,7 @@ Welcome to MEET THE .
 
 
 The website offers the general public the opportunity to attend breast cancer events designed for them.
+It also provides information the signs and symptoms of breast cancer and how to find support groups.
 
 ## Background
 Basic science and research can be very intimidating for non-scientists. The vocabulary is very specific and the experiments done in a laboratory are not always understandable to the general public.
@@ -31,10 +32,22 @@ The site is designed to offer the general public the opportunity to attend event
 
 For this project, the events were invented because a viable project would first need to recruit the scientists. However, even though the events were invented, they are realistic events based on actual research carried out in the laboratories. 
 
+* Included in this site are pages of information regarding the signs and symptoms of breast cancer. The aim is that anyone who views the site will be able to gain  
+information about the symptoms to take note of when doing breast checks. 
+* Also included is a page for support groups. The aim is to help people who may be in need of a support group for themselves or family members. It explains how to find a group and also includes links to online groups.
+
 ### User Stories
 
-As a First Time Visitor, I want to
+#### As a First Time Visitor, I want to 
 
+* get information about the different scientific lecture that I can visit to learn about the science behind cancer.
+* be able to access online support groups and get information about where to find groups.
+* be able to get information sbout the signs and symptoms to watch out for when checking for breast cancer.
+
+#### As a Repeat Visitor, I want to
+
+* be able to use this site as a base for learning about cancer.
+* use this site as  place to access information about support groups.
 
 ## Planning
 
@@ -59,6 +72,11 @@ Font-Size: 14px;
 
 ## Features
 
+* Information about the events that are available for people to attend lectures on the science behind cancer. 
+* Interactive map for the locations of the lectures
+* Information section about the signs/symptons
+* Information about the supprt groups available
+* Social media links in the footer section
 
 
 
@@ -96,8 +114,11 @@ Font-Size: 14px;
 https://www.aconvert.com/document/xls-to-json/
 
 ## Testing
+* [html symptoms validation](assets/images/html-validator-symptoms-page.png)
+* [html support validation](assets/images/support-html.png)
 
 ## Bugs
+No bugs found in the symptoms or the support pages.
 
 ## Deployment
 ### GitHub Pages
@@ -122,3 +143,5 @@ The website has been deployed with GitHub. The project was stored in GitHub.
 
 ## Credits
 
+* breastcancernow.org for the information on the signs/symptoms of breast cancer and the statistics on the signs/symptoms page
+* cancer.gov for the information about the support groups and how to find a support group.
