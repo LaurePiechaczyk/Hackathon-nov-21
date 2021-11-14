@@ -46,7 +46,6 @@
     font-size: 100%;
 }
 
-
 /* Body and headings */
 
 body {
@@ -58,6 +57,10 @@ body {
 
 h1, h2, h3, h4 {
     font-family: 'Abril Fatface', Cursive;
+}
+
+a{
+    color: black;
 }
 
 .text-pink {
@@ -108,6 +111,11 @@ h1, h2, h3, h4 {
     color: white;
     padding-top: 20px;
     padding-bottom: 10px;
+}
+
+/* cards */
+.card-body {
+    min-height: 300px;
 }
 
 /* Footer */ 
