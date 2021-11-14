@@ -52,8 +52,7 @@ h4 {
     min-height: 450px;
 }
 
-#jumbotron.jumbotron.second-page,
-#hero-image.second-page {
+#jumbotron.jumbotron.second-page, #hero-image.second-page {
     height: 100px;
     width: 100%;
     background-image: url(../images/pexels-tara-winstead-7723522.jpg);
@@ -67,7 +66,23 @@ h4 {
     min-height: 100px;
     padding-top: 10px;
     padding-bottom: 10px;
-} 
+}
+
+/* #jumbotron.jumbotron.second-page,
+#hero-image.second-page {
+    height: 100px;
+    width: 100%;
+    background-image: url(../images/pexels-tara-winstead-7723522.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    width: 100%;
+    margin: 0;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}  */
 
 
 a {
@@ -76,6 +91,7 @@ a {
 
 .text-pink {
     color: #885e78;
+    text-shadow: 2px 2px #fff;
 }
 
 .lighter-font {
@@ -94,7 +110,7 @@ a {
 }
 
 .lead {
-    font-size: 120%;
+    font-size: 100%;
 }
 
 lead pb-3 text-pink {
@@ -221,6 +237,13 @@ lead pb-3 text-pink {
 .main-footer a:hover {
     color: #8C4265;
 
+}
+
+
+.card-title {
+    background-color: #f86a9a;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 /* Map */
