@@ -93,6 +93,8 @@ Font-Size: 14px;
 
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/) | used to inspect the elements, codes and to see the how the site look like on various phones and tablets
 
+https://www.aconvert.com/document/xls-to-json/
+
 ## Testing
 
 ## Bugs
