@@ -153,3 +153,28 @@ h1, h2, h3, h4 {
     color: #8C4265;
 
 }
+
+#jumbotron.jumbotron.second-page, #hero-image.second-page {
+    height: 100px;
+    width: 100%;
+    background-image: url(../images/pexels-tara-winstead-7723522.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    width: 100%;
+    margin: 0;
+    /* max-height: 190px; */
+    min-height: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+/* Map */
+
+#map {
+    height: 70vh;
+    width: 100%;
+}
