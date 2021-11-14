@@ -36,7 +36,7 @@ let eventInCard = [{
   },
   {
     "image": "images/fly.png",
-    "title": "Small flyes for cancer science",
+    "title": "Small flies for cancer science",
     "speaker": "Lionel Bernard",
     "city": "London",
     "adress": "20th  Downhill street",
