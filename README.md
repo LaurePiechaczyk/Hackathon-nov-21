@@ -56,12 +56,15 @@ information about the symptoms to take note of when doing breast checks.
 
 ## Planning and organisation
 It was planned that the main part of the project would be: 
-- An index page with events that could be filtered by thema and city with the possibility of accessing a map to see where the events are located. 
+- An index page with events that could be filtered by thema and city with the possibility of accessing a map to see where the events are located. Event would be organized in cards.
 - A symptoms page which aims to inform about symptoms to consider during breast checks. 
 - A page for support that explains how to find a group and also includes links to online groups.
 
 Events were organised in excel files in order to be converted into a js object to use it in the script.js document.
 <h3 align="center"><img src="assets/images/readme/excel.png"></h3>
+
+
+The language / tone has been designed to be easily understood while maintaining the seriousness of presenting science.
 
 ### Typography
 Typography
@@ -109,8 +112,6 @@ Font-Size: 14px;
 
 - [GitHub](https://github.com/) | used to store the project code, show it and deploy the website
 
-- [Balsamiq](https://balsamiq.com/) |  used to create the wireframe
-
 - [Powerpoint](https://simple.wikipedia.org/wiki/Microsoft_PowerPoint) | used to create images 
 
 - [am I responsive?](http://ami.responsivedesign.is/) | used to look at the responsiveness of the website 
@@ -123,6 +124,7 @@ Font-Size: 14px;
 
 - [aconvert](https://www.aconvert.com/document/xls-to-json/) | used to convert excel file to json format
 
+- [excel](https://en.wikipedia.org/wiki/Microsoft_Excel) | used to organize the events
 
 ## Testing
 * [html symptoms validation](assets/images/html-validator-symptoms-page.png)
