@@ -67,22 +67,8 @@ Events were organised in excel files in order to be converted into a js object t
 The language / tone has been designed to be easily understood while maintaining the seriousness of presenting science.
 
 ### Typography
-Typography
 
-Suggested fonts to use in our website
-
-Font-Family: 'Abril Fatface', Cursive;
-Font-Size: 48px;
-Font-Family: 'Poppins', Sans-Serif;
-Font-Size: 14px;
-
-
-### Layout
-
-
-### Imagery 
-
-
+The used fonts where : 'Poppins' and 'Abril Fatface'
 
 ## Features
 
@@ -161,3 +147,4 @@ The website has been deployed with GitHub. The project was stored in GitHub.
 * w3schools. Used throughout the project.
 * Pixabay for pictures.
 * Unsplash for picture.
+* pexels for picture.
