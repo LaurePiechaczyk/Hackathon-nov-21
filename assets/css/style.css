@@ -163,9 +163,6 @@ lead pb-3 text-pink {
     .index-hero #hero-image {
         height: 550px;
     }
-
-    
-        
 }
 
 /* Navigation menu */
@@ -184,11 +181,11 @@ lead pb-3 text-pink {
     color: #8C4265;  
 }
 
-
 /* Cards */
 .card .card-body {
     min-height: 300px;
 }
+
 
 /* Footer */
 
