@@ -9,7 +9,7 @@
 Shoshie-coding, irenenev24, mcglasp, LaurePiechaczyk 
 
 ## About 
-Welcome to MEET THE SCIENTITS
+Welcome to MEET THE SCIENTISTS
 
 
 The website offers the general public the opportunity to attend breast cancer events designed for them.

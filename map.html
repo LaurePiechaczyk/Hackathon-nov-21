@@ -20,39 +20,54 @@
 </head>
 <body>
     <!-- navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">ICON</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item active">
-              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="symptoms.html">Symptoms</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Support</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">About us</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Register</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">For speakers</a>
-            </li>
-          </ul>
-        </div>
-    </nav>
+    <nav class="navbar navbar-expand-lg navbar-dark" id="#navbar">
+      <a class="navbar-brand" href="#">MTS</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="symptoms.html">Symptoms</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="support.html">Support</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="regiter.html">Register</a>
+          </li>
+        </ul>
+      </div>
+  </nav>
 
     <div id="map" class="container-fluid">
 
     </div>
 
+  <!--Footer-->
+  <footer class="main-footer">
+    <p id="para-footer">Follow us on social media</p>
+    <ul>
+      <li>
+        <a href="https://twitter.com/" target="_blank" rel="noopener"
+          aria-label="Visit our Twitter page (opens in a new tab)"><i class="fab fa-twitter-square"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.facebook.com/" target="_blank" rel="noopener"
+          aria-label="Visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/" target="_blank" rel="noopener"
+          aria-label="Visit our Instagram page (opens in a new tab)"><i class="fab fa-instagram"></i>
+        </a>
+      </li>
+    </ul>
+  </footer>
 
     <script src="https://unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js"></script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAiRfJhTvoJvXCDa0ds6RfA7L2mEx6gRjY&callback=initMap"></script>
