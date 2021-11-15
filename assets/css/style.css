@@ -137,7 +137,7 @@ lead pb-3 text-pink {
     position: relative;
 }
 
-.statistics {
+.statistics, .stages{
     text-align: center;
 }
 
