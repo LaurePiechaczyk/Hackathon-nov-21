@@ -1,26 +1,26 @@
 let eventInCard = [{
     "image": "images/doctor.png",
-    "title": "Why it is important to screen for breast cancer as early as possible",
+    "title": "Why we screen for breast cancer as early as possible",
     "speaker": "Doctor Ivana Green, Oncologist",
     "city": "London",
     "adress": "UCL Lecture Theatre",
-    "short_Summary": "We always said early diagnosis is important. In the event Doctor Green will explain why.",
-    "longuer_Summary": "Details about the event",
+    "short_Summary": "Early diagnosis is important. Doctor Green will explain why.",
+    "longuer_Summary": "Event details",
     "thema": "Diagnosis",
-    "when": "20th November 2021, 15h",
-    "audience": "All public"
+    "when": "20th November 2021, 3pm",
+    "audience": "Open to all"
   },
   {
     "image": "images/cells-fluorescence.jpg",
-    "title": "We use cells in a lab to find new treatments for breast cancer",
+    "title": "Using cell research to find new treatments for breast cancer",
     "speaker": "Mary Blue, PhD",
     "city": "Dublin",
     "adress": "Connolly Hospital",
-    "short_Summary": "How cells in a lab are used will be explained in an easy way.",
-    "longuer_Summary": "Details about the event",
+    "short_Summary": "How cells research is used — explained in a simple way.",
+    "longuer_Summary": "Event details",
     "thema": "Basic research",
-    "when": "25th November 2021, 15h",
-    "audience": "All public"
+    "when": "25th November 2021, 3pm",
+    "audience": "Open to all"
   },
   {
     "image": "images/mix-cancer-research.png",
@@ -29,46 +29,46 @@ let eventInCard = [{
     "city": "London",
     "adress": "WA Cafe, Covent Garden",
     "short_Summary": "Come and talk casually to researchers and doctors on the thema breast cancer.",
-    "longuer_Summary": "Details about the event",
+    "longuer_Summary": "Event details",
     "thema": "Casual",
-    "when": "30th November 2021, 15h",
-    "audience": "All public"
+    "when": "30th November 2021, 3pm",
+    "audience": "Open to all"
   },
   {
     "image": "images/fly.png",
-    "title": "Small flyes for cancer science",
+    "title": "Small flies and cancer science",
     "speaker": "Lionel Bernard, PhD",
     "city": "London",
     "adress": "UCL Research Laboratory",
-    "short_Summary": "Why on earth are we using small animals in research?",
-    "longuer_Summary": "Details about the event",
+    "short_Summary": "Why we using small insects in research?",
+    "longuer_Summary": "Event details",
     "thema": "Basic research",
-    "when": "5th December 2021, 14h",
-    "audience": "All public"
+    "when": "5th December 2021, 2pm",
+    "audience": "Open to all"
   },
   {
     "image": "images/precision-medecin.png",
-    "title": "What are the goals of personalized/precision medicine in cancer?",
+    "title": "What are the goals of personalised/precision medicine?",
     "speaker": "Steven Adams, PhD",
     "city": "Glasgow",
     "adress": "University of Glasgow Research Facility",
-    "short_Summary": "This event will explain the concepts and challenges of personal medicine / precision medecine in breast cancer.",
-    "longuer_Summary": "Details about the event",
+    "short_Summary": "Explaining the concepts and challenges of personal/precision medicine in breast cancer.",
+    "longuer_Summary": "Event details",
     "thema": "Basic research",
-    "when": "15th December 2021, 14h",
-    "audience": "All public"
+    "when": "15th December 2021, 2pm",
+    "audience": "Open to all"
   },
   {
     "image": "images/screen.jpg",
-    "title": "This week I have tested the effect of 3000 drugs on cells in my lab",
+    "title": '"This week I have tested the effect of 3000 drugs on cells in my lab"',
     "speaker": "Eileen Bedford, PhD",
     "city": "Glasgow",
     "adress": "Glasgow Caledonian University Lecture Hall",
-    "short_Summary": "This event will explain the concept of screening for drugs that could be used to treat cancer.",
-    "longuer_Summary": "Details about the event",
+    "short_Summary": "Explaining the concept of screening for drugs that could be used to treat cancer.",
+    "longuer_Summary": "Event details",
     "thema": "Basic research",
-    "when": "15th December 2021, 16h",
-    "audience": "All public"
+    "when": "15th December 2021, 4pm",
+    "audience": "Open to all"
   },
   {
     "image": "images/mix-cancer-research.png",
@@ -76,11 +76,11 @@ let eventInCard = [{
     "speaker": "Panel discussion",
     "city": "Dublin",
     "adress": "Esquires Cafe, Talbot Street",
-    "short_Summary": "Come and talk casually to researchers and doctors on the thema breast cancer.",
-    "longuer_Summary": "Details about the event",
+    "short_Summary": "Come and chat to researchers and doctors about breast cancer.",
+    "longuer_Summary": "Event details",
     "thema": "Casual",
-    "when": "16th December 2021, 14h",
-    "audience": "All public"
+    "when": "16th December 2021, 2pm",
+    "audience": "Open to all"
   },
   {
     "image": "images/mitose.jpg",
@@ -88,23 +88,23 @@ let eventInCard = [{
     "speaker": "Susan Fey, Oncologist",
     "city": "Online",
     "adress": "",
-    "short_Summary": "This event will explain what we know about why cancer occurs in some people.",
-    "longuer_Summary": "Details about the event",
+    "short_Summary": "What we know about why cancer occurs in some people.",
+    "longuer_Summary": "Event details",
     "thema": "Basic research",
-    "when": "18th December 2021, 14h",
-    "audience": "All public"
+    "when": "18th December 2021, 2pm",
+    "audience": "Open to all"
   },
   {
     "image": "images/DNA.jpg",
-    "title": "What is a gene and what is a mutation",
+    "title": "What is a gene, and what is a mutation?",
     "speaker": "Mark Gibbins",
     "city": "Online",
     "adress": "",
     "short_Summary": "This event will explain what a gene is and what a mutation is. It is particularly suitable for people with no knowledge of genetics.",
-    "longuer_Summary": "Details about the event",
+    "longuer_Summary": "Event details",
     "thema": "Basic research",
-    "when": "10th Januaryr 2022, 14h",
-    "audience": "All public"
+    "when": "10th January 2022, 2pm",
+    "audience": "Open to all"
   }
 ]
 
