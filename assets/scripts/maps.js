@@ -44,7 +44,7 @@ function initMap() {
       break;
     case "Dublin":
       locations = [{
-          label: "Coffee & Science",
+          label: "Laboratory Open Day",
           lat: 53.39413320626776,
           lng: -6.359222602385262
         },
@@ -86,7 +86,7 @@ function initMap() {
           lng: -4.248479000542656
         },
         {
-          label: "Coffee & Science",
+          label: "Laboratory Open Day",
           lat: 53.39413320626776,
           lng: -6.359222602385262
         },
