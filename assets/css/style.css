@@ -245,6 +245,7 @@ lead pb-3 text-pink {
 /* Map */
 
 #map {
-    height: 70vh;
+    padding-top: 20px;
+    height: 90vh;
     width: 100%;
 }
